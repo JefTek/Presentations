@@ -20,5 +20,7 @@ Presentation content and additional information from the TEC2024 Conference
 ## Microsoft Copilot for Security
 - [Microsoft Copilot in Microsoft Entra](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-security-entra)
 
-## Road To Cloud -  AD to Entra
+## Guidance and Architecture
+### Road To Cloud -  AD to Entra
 - [Road To Cloud - Cloud Transformation Posture](https://aka/ad2entra)
+- [Resources for migrating applications to Microsoft Entra ID](https://aka.ms/migrateapps)
