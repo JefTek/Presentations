@@ -7,7 +7,7 @@ Presentation content and additional information from the TEC2024 Conference
 - Date: 2024-10-03
 - Location: Dallas, Texas, United States
 - Session Link: [TEC 2024 Agenda](https://events.bizzabo.com/theexpertsconference2024/agenda/session/1336240)
-- Presentation Link: <TBD>
+- Presentation Link: <Link will be added after live presentation>
 
 # Additional Resources
 ## Microsoft Entra
