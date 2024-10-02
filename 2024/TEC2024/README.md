@@ -16,6 +16,7 @@ Presentation content and additional information from the TEC2024 Conference
 - [New Microsoft Entra Suite | Microsoft Mechanics | YouTube](https://youtu.be/sPtb3dzOdaE?si=N1k5aY7_FyhNbCal)
 - [Entra Suite Overview | John Savill's Technical Training | YouTube](https://www.youtube.com/watch?v=Fu1qyW3kuLo&t=5s)
 - [Trial user guide: Microsoft Entra Suite](https://learn.microsoft.com/en-us/entra/fundamentals/try-microsoft-entra-suite)
+- [Entra ID Governance Features and Licensing Fundamentals](https://aka.ms/entraig/licdocs)
 
 ## Microsoft Copilot for Security
 - [Microsoft Copilot in Microsoft Entra](https://learn.microsoft.com/en-us/entra/fundamentals/copilot-security-entra)
